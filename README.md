@@ -61,8 +61,8 @@ Crear un archivo `.env` en la raíz del proyecto con el siguiente contenido:
 
 ```env
 DB_PASSWORD=postgres
-JWT_SECRET=MiClaveSecretaMuySeguraParaFirmarTokensJWT123456
-DEMO_PASSWORD=admin123
+JWT_SECRET=UhZoCRQQkG0g9c9+mJ8WEdGwRcgYLXjL3f20Sw/U9UE=
+DEMO_PASSWORD=MiClaveDemo2026Segura
 FRONTEND_ORIGIN=http://localhost:4200
 ```
 
