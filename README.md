@@ -51,7 +51,7 @@ docker compose version
 ## Clonar el proyecto
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone <https://github.com/eduron93/seguros-auto-backend.git>
 cd seguros-auto
 ```
 
